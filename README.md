@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishree Raj
 
-<!--
-**C4naryS0ck/C4naryS0ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cyber Security)  
+🔐 Interested in Blue Teaming, Threat Detection, and Machine Learning Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+
+🔹 AI Password Strength Detector  
+Machine learning model that classifies passwords into Weak, Medium, and Strong using NLP techniques.
+
+🔹 Phishing URL Detection using Machine Learning  
+A model that detects malicious URLs using feature extraction and ML algorithms.
+
+🔹 Instagram Account Automation Bot  
+Automation script that creates Instagram accounts using temporary email services.
+
+---
+
+📚 Currently Learning
+
+• SIEM Tools  
+• Threat Detection  
+• Incident Response  
+• Blue Team Security  
+
+---
+
+🛠️ Skills
+
+Python | Machine Learning | Cybersecurity | Git | Linux
+
+---
