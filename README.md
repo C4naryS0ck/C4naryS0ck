@@ -30,5 +30,3 @@ Automation script that creates Instagram accounts using temporary email services
 🛠️ Skills
 
 Python | Machine Learning | Cybersecurity | Git | Linux
-
----
