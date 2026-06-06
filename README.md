@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhishree Raj
 
 🎓 B.Tech CSE (Cyber Security)  
-🔐 Interested in Blue Teaming, Threat Detection, and Machine Learning Security  
+🔐 Interested in Artificial Intelligence, Machine Learning
 
 ---
 
@@ -20,13 +20,13 @@ Automation script that creates Instagram accounts using temporary email services
 
 📚 Currently Learning
 
-• SIEM Tools  
-• Threat Detection  
-• Incident Response  
-• Blue Team Security  
+• ML Algorithms  
+• Deep Learning Algorithms  
+• NLP
+• Open CV  
 
 ---
 
 🛠️ Skills
 
-Python | Machine Learning | Cybersecurity | Git | Linux
+Python | Machine Learning | Git | Linux
