@@ -18,7 +18,7 @@ Automation script that creates Instagram accounts using temporary email services
 
 ---
 
-📚 Currently Learning
+📚 Goal for 6 Months
 
 • ML Algorithms  
 • Deep Learning Algorithms  
