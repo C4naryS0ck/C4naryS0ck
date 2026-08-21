@@ -7,8 +7,8 @@
 
 🚀 Projects
 
-🔹 AI Password Strength Detector  
-Machine learning model that classifies passwords into Weak, Medium, and Strong using NLP techniques.
+🔹 Movie Recommendation System
+A model that suggests movies related to the one you like.
 
 🔹 Phishing URL Detection using Machine Learning  
 A model that detects malicious URLs using feature extraction and ML algorithms.
